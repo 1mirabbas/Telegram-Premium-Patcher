@@ -41,8 +41,10 @@ sudo apt install zipalign
 Clone the repository:
 
 ```bash
-git clone https://github.com/username/telegram-premium-patcher.git
-cd telegram-premium-patcher
+git clone https://github.com/1mirabbas/Telegram-Premium-Patcher.git
+cd Telegram-Premium-Patcher
+chmod +x telegram_patcher.sh
+chmod +x signer.sh
 ```
 
 
@@ -53,5 +55,6 @@ cd telegram-premium-patcher
 
 
 ## ⚠ Disclaimer
-Do you want me to also **add the requirements** section before installation so people know what to install first? That would make it easier for users to run the patcher without errors.
+This project is for **educational purposes only**. Unlocking Telegram Premium without paying may violate Telegram's **Terms of Service**.
+
 
