@@ -50,7 +50,7 @@ chmod +x signer.sh
 
 ## 🚀 Usage
 ```bash
-./telegram_bypass.sh
+./telegram_patcher.sh
 ```
 
 
