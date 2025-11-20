@@ -58,3 +58,8 @@ chmod +x signer.sh
 This project is for **educational purposes only**. Unlocking Telegram Premium without paying may violate Telegram's **Terms of Service**.
 
 
+
+
+![Screenshot_20251120_144926_Telegram](https://github.com/user-attachments/assets/918d2f94-09b5-4f29-93aa-15ecd53b7c35)
+
+
