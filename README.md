@@ -1,4 +1,4 @@
-# 📱 Telegram Premium Patcher
+# 📱 Telegram Premium Patcher (x <= v12.2.3)
 
 **Telegram Premium Patcher** is a tool that unlocks **Telegram Premium features** for your Telegram app.  
 With it, you can enjoy faster downloads, bigger uploads, and other exclusive features — without a subscription.
